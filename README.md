@@ -35,3 +35,5 @@ Tres tablas de dimensión (`categorias`, `clientes`, `productos`) y una tabla de
 3. Ejecutar todo con **F5**.
 
 **Herramienta:** SQL Server · SSMS
+
+| modulo4 | Pre-entrega Módulo 4 | Consultas SQL de negocio: resumen mensual, ranking, clientes recurrentes y comparación contra el promedio |
