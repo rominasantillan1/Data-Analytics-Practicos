@@ -1,6 +1,6 @@
 RetailPro – Proyecto integrador de Data Analytics
 Repositorio con las pre-entregas del curso de Data Analytics. El proyecto analiza las ventas de TechStore, una empresa de retail de tecnología, para responder una pregunta de negocio: por qué el margen bruto cae aunque las ventas crecen, y qué categoría, región o canal lo explica.
-Autora: Romina Santillán, contadora pública.
+Alumna: Romina Santillán, Contadora Pública.
 Herramientas
 SQL Server + SQL Server Management Studio (SSMS): base de datos, tablas, carga de datos y consultas.
 Power BI Desktop: limpieza con Power Query (lenguaje M), modelo de datos y medidas DAX.
